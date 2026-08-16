@@ -332,7 +332,7 @@ Também sou apaixonado por <strong>jogos, videogames, mangás e animes</strong>,
       <sub><b>Trello</b></sub>
     </td>
     <td align="center" width="110" height="110">
-      <img src="./assets/icons/lua-Logo.svg" width="44" height="44" alt="Lua"/>
+      <img src="./assets/icons/Lua-Logo.svg" width="44" height="44" alt="Lua"/>
       <br/>
       <sub><b>Lua</b></sub>
     </td>
